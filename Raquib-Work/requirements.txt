@@ -1,0 +1,25 @@
+# MuJoCo Python bindings
+mujoco>=3.3.4
+
+# Gymnasium and robotics extension
+gymnasium>=1.2.0
+gymnasium-robotics>=0.1.0
+
+# Stable‑Baselines3 core + extras and contrib
+stable-baselines3[extra]>=2.7.0
+sb3-contrib>=2.7.0
+
+# PyTorch and vision utils
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Theia vision model
+transformers>=4.30.0
+
+# Common utilities
+numpy>=1.25.0
+Pillow>=9.5.0
+tqdm>=4.67.0
+
+einops>=0.6.0
+omegaconf>=2.4.0
